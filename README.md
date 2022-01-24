@@ -1,5 +1,6 @@
 # HVANet
-Source code for "LCS-EnsemNet: A Semisupervised Deep Neural Network for SAR Image Change Detection with Dual Feature Extraction and Label-Consistent Self-Ensemble"
+Source code for "Hybrid Variability Aware Network (HVANet): A Self-Supervised 
+Deep Framework for Label-Free SAR Image Change Detection"
 
 Codes will be released after revisions of our manuscript.
 
