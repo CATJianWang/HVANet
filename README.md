@@ -1,7 +1,5 @@
 # HVANet
-Source code for "Hybrid Variability Aware Network (HVANet): A Self-Supervised 
-
-Deep Framework for Label-Free SAR Image Change Detection"
+Source code for "Hybrid Variability Aware Network (HVANet): A Self-Supervised Deep Framework for Label-Free SAR Image Change Detection"
 
 Codes will be released after revisions of our manuscript.
 
